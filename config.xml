@@ -1,0 +1,325 @@
+<TestDevices>
+    <ElectronicLoads>
+        <ElectronicLoad>
+            <ID>1</ID>
+            <IP>192.168.1.10</IP>
+            <Port>5025</Port>
+            <ChannelCount>8</ChannelCount>
+            <Channels>
+                <Channel>
+                    <Number>1</Number>
+                    <Name>wiper</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>2</Number>
+                    <Name>lamp</Name>
+                    <Type>RES</Type>
+                    <Value>14</Value>
+                </Channel>
+                <Channel>
+                    <Number>3</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>4</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>5</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>6</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>7</Number>
+                    <Name>b fonk</Name>
+                    <Type>CURR</Type>
+                    <Value>29</Value>
+                </Channel>
+                <Channel>
+                    <Number>8</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <!-- Diğer kanallar burada devam eder -->
+            </Channels>
+        </ElectronicLoad>
+        <ElectronicLoad>
+            <ID>2</ID>
+            <IP>192.168.1.11</IP>
+            <Port>5025</Port>
+            <ChannelCount>8</ChannelCount>
+            <Channels>
+                <Channel>
+                    <Number>1</Number>
+                    <Name>wiper</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>2</Number>
+                    <Name>lamp</Name>
+                    <Type>RES</Type>
+                    <Value>14</Value>
+                </Channel>
+                <Channel>
+                    <Number>3</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>4</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>5</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>6</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>7</Number>
+                    <Name>b fonk</Name>
+                    <Type>CURR</Type>
+                    <Value>29</Value>
+                </Channel>
+                <Channel>
+                    <Number>8</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <!-- Diğer kanallar burada devam eder -->
+            </Channels>
+        </ElectronicLoad>
+        <ElectronicLoad>
+            <ID>1</ID>
+            <IP>192.168.1.12</IP>
+            <Port>5025</Port>
+            <ChannelCount>8</ChannelCount>
+            <Channels>
+                <Channel>
+                    <Number>1</Number>
+                    <Name>wiper</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>2</Number>
+                    <Name>lamp</Name>
+                    <Type>RES</Type>
+                    <Value>14</Value>
+                </Channel>
+                <Channel>
+                    <Number>3</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>4</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>5</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>6</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>7</Number>
+                    <Name>b fonk</Name>
+                    <Type>CURR</Type>
+                    <Value>29</Value>
+                </Channel>
+                <Channel>
+                    <Number>8</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <!-- Diğer kanallar burada devam eder -->
+            </Channels>
+        </ElectronicLoad>
+        <ElectronicLoad>
+            <ID>1</ID>
+            <IP>192.168.1.13</IP>
+            <Port>5025</Port>
+            <ChannelCount>8</ChannelCount>
+            <Channels>
+                <Channel>
+                    <Number>1</Number>
+                    <Name>wiper</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>2</Number>
+                    <Name>lamp</Name>
+                    <Type>RES</Type>
+                    <Value>14</Value>
+                </Channel>
+                <Channel>
+                    <Number>3</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>4</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>5</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>6</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>7</Number>
+                    <Name>b fonk</Name>
+                    <Type>CURR</Type>
+                    <Value>29</Value>
+                </Channel>
+                <Channel>
+                    <Number>8</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <!-- Diğer kanallar burada devam eder -->
+            </Channels>
+        </ElectronicLoad>
+        <ElectronicLoad>
+            <ID>1</ID>
+            <IP>192.168.1.14</IP>
+            <Port>5025</Port>
+            <ChannelCount>8</ChannelCount>
+            <Channels>
+                <Channel>
+                    <Number>1</Number>
+                    <Name>wiper</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>2</Number>
+                    <Name>lamp</Name>
+                    <Type>RES</Type>
+                    <Value>14</Value>
+                </Channel>
+                <Channel>
+                    <Number>3</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>4</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>5</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>6</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <Channel>
+                    <Number>7</Number>
+                    <Name>b fonk</Name>
+                    <Type>CURR</Type>
+                    <Value>29</Value>
+                </Channel>
+                <Channel>
+                    <Number>8</Number>
+                    <Name>a fonk</Name>
+                    <Type>RES</Type>
+                    <Value>13</Value>
+                </Channel>
+                <!-- Diğer kanallar burada devam eder -->
+            </Channels>
+        </ElectronicLoad>
+    </ElectronicLoads>
+    <PowerSupplys>
+        <PowerSupply>
+            <ID>1</ID>
+            <IP>192.168.1.15</IP>
+            <Port>5025</Port>
+            <VoltageValues>
+                <Channel>
+                    <Number>1</Number>
+                    <Value>28</Value>
+                </Channel>
+            </VoltageValues>
+            <CurrentValues>
+                <Channel>
+                    <Number>1</Number>
+                    <Value>28</Value>
+                </Channel>
+            </CurrentValues>
+        </PowerSupply>
+        <PowerSupply>
+            <ID>2</ID>
+            <IP>192.168.1.17</IP>
+            <Port>5025</Port>
+            <VoltageValues>
+                <Channel>
+                    <Number>1</Number>
+                    <Value>28</Value>
+                </Channel>
+            </VoltageValues>
+            <CurrentValues>
+                <Channel>
+                    <Number>1</Number>
+                    <Value>28</Value>
+                </Channel>
+            </CurrentValues>
+        </PowerSupply>
+    </PowerSupplys>
+</TestDevices>

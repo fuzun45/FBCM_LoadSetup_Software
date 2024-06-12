@@ -1,0 +1,8 @@
+<commands>
+    <command>*IDN?</command>
+    <command>*RST</command>
+    <command>*CLS</command>
+    <command>MEASure:VOLTage?</command>
+    <command>MEASure:CURRent?</command>
+    <command>MEASure:RESistance?</command>
+</commands>
